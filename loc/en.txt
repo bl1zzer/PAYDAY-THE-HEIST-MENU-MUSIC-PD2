@@ -1,4 +1,0 @@
-{
-    "menu_jukebox_pdth" : "Payday: The Heist - Main Theme",
-    "menu_jukebox_screen_pdth" : "Payday: The Heist - Main Theme"
-}
