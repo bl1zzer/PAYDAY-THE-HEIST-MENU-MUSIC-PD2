@@ -1,4 +1,0 @@
-<table name="pdth">
-    <Localization directory="loc" default="en.txt"/>
-    <MenuMusic id="pdth" source="sounds/menu.ogg"/>
-</table>
